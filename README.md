@@ -1,5 +1,5 @@
 # HELLO WORLD
-## JOSE ADRIAN FERNANDEZ MENDEZ
+## JOSE ADRIAN
 ## 2891336
 ## sixth semester
 
